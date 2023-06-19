@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@eunchurn/eslint-config": "0.1.8",
+    "@eunchurn/eslint-config": "0.1.13",
     "@eunchurn/prettier-config": "0.0.4",
     "@types/express": "4.17.13",
     "@types/jest": "28.1.3",
